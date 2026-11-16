@@ -1,6 +1,6 @@
-# Title or Channel? Title features and views of Spanish-language YouTube videos
+# Title features and view counts in Spanish-language YouTube videos
 
-Code and derived data for the article *Title or Channel? Disentangling the Contribution of Title Features to the Views of Spanish-Language YouTube Videos* (anonymous submission).
+Code and derived data for the article *Title features and view counts in Spanish-language YouTube videos: separating the channel effect with NLP and interpretable machine learning* (anonymous submission).
 
 ## Contents
 
